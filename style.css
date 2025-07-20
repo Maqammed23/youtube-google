@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -21,7 +21,7 @@ h1{
     font-size: 90px;
     margin-bottom: 30px;
 }
-div{
+#divbir{
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -35,4 +35,25 @@ div{
     border: 1px solid rgb(219, 217, 212);
     
     box-shadow: 5%;
+}
+#icon{
+    
+}
+#diviki{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+ 
+
+#media{
+display: inline;
+}
+.media{
+    
+    font-size: 35px;
+}
+.label{
+    
 }
