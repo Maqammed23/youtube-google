@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    display: inline-block;
+  margin: 5px;
+    
+}
+#search{
+    width: 65vw;
+    height: 5vh;
+    margin-left: 200px;
+    border-radius: 10px;
+  margin-bottom: 50px;
+  margin-right: 40px;
+  
+}
+#b1{
+    border: 1px solid rgba(105, 105, 105, 0.137);
+    padding: 5px;
+    border-radius: 10px;
+}
+button{
+    border: 1px solid black;
+    padding: 6px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+#d2{
+margin-left: 10px;
+width: 12vw;
+border: 1px solid rgba(105, 105, 105, 0.137) ;
+}
