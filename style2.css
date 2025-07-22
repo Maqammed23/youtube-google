@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input{
+    display: block;
+    font-size: 30px;
+    margin-top: 10px;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+#all{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+h1{
+    color: blue;
+}
+span{
+    color: black;
+}
+#a{
+    
+}
+::placeholder{
+    font-size: 20px;
+    margin-left: 13px;
+
+}
+#blue{
+    background-color: blue;
+    color: white;
+    width: 100%;
+    height: 5vh;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+#white{
+    background-color: white;
+    color: blue;
+    width: 100%;
+    height: 5vh;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+#green{
+    background-color: rgb(19, 213, 19);
+    color: white;
+    width: 30%;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 20px;
+
+}
+button{
+    display: block;
+
+    
+}
+#b{
+     border: 1px solid black;
+     background-color: white;
+     border-radius: 7px;
+}
+body{
+    background-color: #c9ccd1;
+}
+#p{
+    text-align: center;
+}
+#facebook{
+    font-size: 30px;
+}
