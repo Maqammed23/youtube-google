@@ -7,3 +7,69 @@ img{
     width: 5vw;
     height: 10vh;
 }
+#a{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    height: 40vh;
+    border-radius: 20px;
+    width: 60vw;
+    margin: 0 auto;
+    margin-top: 170px;
+}
+input{
+    display: block;
+}
+#p{
+    margin-top: 20px;
+}
+button{
+    display: block;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    font-size: larger;
+}
+#sign{
+margin-top: 10px;
+}
+#ikinci{
+    margin-top: 12px;
+}
+body{
+    background-color: rgb(128, 165, 163);
+}
+#iki{
+    margin-top: 100px;
+}
+#bir{
+    margin-left: 25px;
+    margin-top: 15px;
+    
+}
+#input{
+    width: 20vw;
+    height: 3vh;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+li{
+    display: inline;
+    margin-left: 10px;
+    
+}
+ul{
+    float: right;
+    margin-right: 350px;
+}
+li:hover{
+    cursor: pointer;
+}
+button:hover{
+    cursor: pointer;
+}
