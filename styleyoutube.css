@@ -37,19 +37,25 @@ border: 1px solid rgba(105, 105, 105, 0.137) ;
 iframe{
   width: 20vw;
   height: 20vh;
-  
+  margin-left: 15px;
+  margin-top:10px ;
 }
 .xxx{
   
 }
 #video{
   display: flex;
-  flex-wrap: wrap;
-  
-margin-left: 213px;
-
+margin-left: 215px;
+margin-top: 0;
+flex-wrap: wrap;
+position: relative;
+bottom: 650px;
 }
 video{
   
   
+}
+body{
+  display: flex;
+  flex-direction: column;
 }
